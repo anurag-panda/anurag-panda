@@ -5,6 +5,7 @@
     margin: 0;
     font-family: 'Poppins',sans-serif;
     box-sizing: border-box;
+    position: sticky;
 }
 
 body {
@@ -333,7 +334,7 @@ section {
 }
 
 .typing-text span{
-    position: relative;
+    position: relpostive;
 }
 
 .typing-text span::before{
