@@ -173,6 +173,7 @@ section {
     font-weight: 700;
     border-radius: 5px;
     transition: 0.2s linear;
+    position: sticky;
 }
 
 .content button:hover {
